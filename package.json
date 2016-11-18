@@ -2,7 +2,7 @@
     "name": "ogrematerialscripts",
     "displayName": "Ogre Material Scripts Syntax Highlighting",
     "description": "Syntax Highlighting for Ogre Material Scripts",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "allov",
     "author": {
         "name": "Frédérik Charest",
