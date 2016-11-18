@@ -22,7 +22,7 @@
     "contributes": {
         "languages": [{
             "id": "ogrematerialscripts",
-            "aliases": ["Ogre Material Scripts", "ogrematerialscripts"],
+            "aliases": ["Ogre Material Scripts", "Syntax Highlighting", "Ogre"],
             "extensions": [".compositor",".material",".program"],
             "configuration": "./language-configuration.json"
         }],
