@@ -1,0 +1,26 @@
+{
+    "name": "ogrematerialscripts",
+    "displayName": "material",
+    "description": "Syntax Highlighting for Ogre Material Scripts",
+    "version": "0.0.1",
+    "publisher": "Frédérik Charest",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "ogrematerialscripts",
+            "aliases": ["Ogre Material Scripts", "ogrematerialscripts"],
+            "extensions": [".compositor",".material",".program"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "ogrematerialscripts",
+            "scopeName": "source.ogre",
+            "path": "./syntaxes/OgreMaterialScripts.tmLanguage"
+        }]
+    }
+}
