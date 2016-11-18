@@ -1,12 +1,17 @@
 {
     "name": "ogrematerialscripts",
-    "displayName": "material",
+    "displayName": "Ogre Material Scripts Syntax Highlighting",
     "description": "Syntax Highlighting for Ogre Material Scripts",
-    "version": "0.0.2",
+    "version": "0.0.1",
     "publisher": "allov",
+    "author": {
+        "name": "Frédérik Charest",
+        "email": "frederik.charest@gmail.com",
+        "url": "https://github.com/Allov"
+    },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Allov/ogre-material-scripts"
+        "url": "https://github.com/Allov/ogre-material-scripts.git"
     },
     "engines": {
         "vscode": "^1.5.0"

@@ -4,4 +4,4 @@ Syntaxe Highlighting for Ogre Material Scripts (.material, .compositor and .prog
 
 # Features
 
-![alt material example](example.png)
+![alt material example](https://github.com/Allov/ogre-material-scripts/raw/master/example.png)
