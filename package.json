@@ -2,7 +2,7 @@
     "name": "ogrematerialscripts",
     "displayName": "Ogre Material Scripts Syntax Highlighting",
     "description": "Syntax Highlighting for Ogre Material Scripts",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "allov",
     "author": {
         "name": "Frédérik Charest",
@@ -22,7 +22,7 @@
     "contributes": {
         "languages": [{
             "id": "ogrematerialscripts",
-            "aliases": ["Ogre Material Scripts", "Syntax Highlighting", "Ogre"],
+            "aliases": ["Ogre Material Scripts", "Syntax", "Ogre"],
             "extensions": [".compositor",".material",".program"],
             "configuration": "./language-configuration.json"
         }],
